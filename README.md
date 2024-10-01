@@ -1,4 +1,14 @@
-## Hi there 👋
+# About me #
+
+> I hope that artificial intelligence can develop to the stage of superintelligence, contributing to scientific progress and benefiting humanity. For me, this is the entire meaning of researching AI.
+
+(Ph.D., 2022~Now) I am studying at Beijing  Normal University, State Key Laboratory 	of Cognitive Neuroscience and Learning. Advised by Prof. [<font color="blue"><u>Jing Sui</u></font>](https://research.com/u/jing-sui). **Focus on the NeuroAI.**  (M.E., 2019~2022) Advised by Prof. [<font color="blue"><u>Zhongyu li</u></font>](https://scholar.google.com/citations?user=S2FbC8oAAAAJ&hl=en), Dr.[<font color="blue"><u>Bin Kong</u></font>](https://scholar.google.com/citations?user=yl4PrOcAAAAJ&hl=en/). I majored in cloud computing. **Focus on AI for Medical Image Analysis**. (B.E., 2014~2018) I majored in software engineering. 
+
+<table style="border-collapse: collapse;margin:auto"><tbody><tr style="border-collapse: separate; border-spacing:30em;"><td style="border-collapse: collapse; border: none;" width="40%"><b>Interests</b></td><td style="border-collapse: collapse; border: none;"><b>Education</b></td></tr><tr style="border-collapse: separate; border-spacing:30em;"><td style="border-collapse: collapse; border: none;">🌍Generative AI<br/>🎯Trustworthy AI<br/>🧠Brain-inspired AI<br/>🧬Reinforcement Learning<br/></td><td style="border-collapse: collapse; border: none;">🎓Ph.D. in Beijing Normal University, 2022-Present<br/><i style='margin-left:20px'><a href="https://brain.bnu.edu.cn/index.htm" target="_blank" style="text-decoration: none;">State Key Laboratory of Cognitive Neuroscience and Learning</a></i><br/>🎓M.E. in Xi'an JiaoTong University, 2019-2022<br/><i style='margin-left:20px'><a href="http://eie.xjtu.edu.cn/" target="_blank" style="text-decoration: none;">Faculty of Electronic and Information Engineering</a></i></td></tr></tbody></table>
+
+<div style="background-color: #F8F8F8; color: #333; font-family: 'Times New Roman', Tahoma, Geneva, Verdana, sans-serif; padding: 10px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); line-height: 1.4; margin-top: 10px;">I am dedicated to building <b style='color:orange'>Trustworthy Artificial Intelligence</b> models, focusing on developing meta-methods for <b style='color: orange'>Reasoning, Learning, and Accelerating</b>. <b style='color: green'>My vision is to leverage AI to build a small-scale, logical, and physics-like virtual world in order to derive the laws of the physical world.</b> My interests span Generative AI, Large Language Models (LLMs), Vision-Language Models (VLMs), NeuroAI, Reinforcement Learning, Multi-Agent Systems, and Multimodal Learning. I am also interested in applying these technologies to the scientific domain (AI4Science) to advance scientific discovery and technological innovation. If you are interested in any of these topics, please feel free to contact me. </div> 
+
+# 
 
 <!--
 **AbnerAI/AbnerAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 # About me #
 
-> I hope that artificial intelligence can develop to the stage of superintelligence, contributing to scientific progress and benefiting humanity. For me, this is the entire meaning of researching AI.
+> Hoping to build safe super AI models by learning brain and complex systems, contributing to scientific progress and benefiting humanity.
 <div style="background-color: #F8F8F8; color: #333; font-family: 'Times New Roman', Tahoma, Geneva, Verdana, sans-serif; padding: 10px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); line-height: 1.4; margin-top: 10px;">I am dedicated to building <b style='color:orange'>Trustworthy Artificial Intelligence</b> models, focusing on developing meta-methods for <b style='color: orange'>Reasoning, Learning, and Accelerating</b>. My interests span Generative AI, Large Language Models (LLMs), Vision-Language Models (VLMs), NeuroAI, Reinforcement Learning, Multi-Agent Systems, and Multimodal Learning. I am also interested in applying these technologies to the scientific domain (AI4Science) to advance scientific discovery and technological innovation. If you are interested in any of these topics, please feel free to contact me. </div> 
 
 # 
